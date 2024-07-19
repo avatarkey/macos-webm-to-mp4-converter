@@ -1,0 +1,17 @@
+# Python
+     __pycache__/
+     *.py[cod]
+     *$py.class
+
+     # Virtual Environment
+     venv/
+
+     # macOS
+     .DS_Store
+
+     # PyQt
+     *.pro.user
+     *.pyproject.user
+
+     # Converted videos
+     *.mp4
