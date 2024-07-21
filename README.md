@@ -1,6 +1,7 @@
 # WEBM to MP4 Converter
 
    A simple GUI application to convert WEBM files to MP4 format using Python and FFmpeg.
+   Sometimes the filesizes of same .mp4 and .webm might differ.
 
    ## Prerequisites
 
